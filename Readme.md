@@ -6,6 +6,10 @@
 
 This Python middleware sits between users and LLMs (Claude API or local models), analyzing conversation patterns and modifying responses to be more engaging and contextually appropriate.
 
+This code was generated entirely by Claude AI based on my specifications, 
+requirements, and iterative feedback. I provided the conceptual framework, guided the 
+development process through multiple iterations, and conducted all testing and analysis.*
+
 **Core features:**
 - Real-time mood and engagement detection
 - Emotional state tracking and response adaptation  
@@ -133,5 +137,6 @@ This project went through 4 major iterations:
 The included `middleware_memory.xlsx` file contains a complete conversation log showing the system's behavior evolution and metrics tracking. This demonstrates raw vs processed response differences and emotional state progression throughout a real conversation.
 
 ---
+
 
 *Educational project demonstrating LLM middleware concepts. Built with Python and designed for experimentation with AI personality modification techniques.*
